@@ -1,0 +1,2 @@
+# premium-loft-floor-001-full-size-lofting-body-plan-ca
+Scaling lofting designs from concept to full-size production without losing precision or spending hours recalculating measurements. The Full-Size Lofting Body Plan Calculator eliminates the guesswork that costs you time and material.  This Notion template transforms scattered spreadsheets and hand-drawn calculations into a unified, automated system
